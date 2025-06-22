@@ -114,7 +114,7 @@
 
     "registration": {
       "required": true,
-      "url": "https://trezor.islandbitcoin.com",
+      "url": "https://evento.so/p/evt_trezor_workshop_2025",
       "email": "workshops@islandbitcoin.com",
       "deadline": "TBD",
       "capacity": {

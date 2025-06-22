@@ -1,11 +1,11 @@
 {
   "_comment": "Bitcoin Pizza Day 2026 - Special Annual Celebration",
   "_version": "1.0.0",
-  
+
   "event": {
     "id": "bitcoin-pizza-day-jamaica-2026",
     "status": "published",
-    
+
     "basic_info": {
       "title": "Bitcoin Pizza Day Jamaica 2026",
       "subtitle": "Celebrating 16 Years of Bitcoin Pizza",
@@ -22,7 +22,7 @@
         "other_accommodations": ["Family-friendly", "Kids activities", "Outdoor venue"]
       }
     },
-    
+
     "datetime": {
       "start": "2026-05-22T17:00:00-05:00",
       "end": "2026-05-22T22:00:00-05:00",
@@ -72,7 +72,7 @@
         }
       ]
     },
-    
+
     "location": {
       "type": "physical",
       "name": "Emancipation Park",
@@ -91,10 +91,10 @@
       "parking": "Limited street parking, ride-sharing recommended",
       "public_transit": "Multiple bus routes stop at Oxford Road"
     },
-    
+
     "registration": {
       "required": true,
-      "url": "https://pizzaday.islandbitcoin.com",
+      "url": "https://evento.so/p/evt_bitcoin_pizza_day_2026",
       "email": "pizzaday@islandbitcoin.com",
       "deadline": "2026-05-20T23:59:59-05:00",
       "capacity": {
@@ -116,7 +116,7 @@
         "preparation": "Register early - limited pizza quantities!"
       }
     },
-    
+
     "organizer": {
       "name": "Island Bitcoin",
       "email": "events@islandbitcoin.com",
@@ -131,7 +131,7 @@
         "telegram": "https://t.me/islandbitcoin"
       }
     },
-    
+
     "sponsors": [
       {
         "name": "Bitcoin Beach Jamaica",
@@ -152,18 +152,14 @@
         "description": "Securing your sats since 2021"
       }
     ],
-    
+
     "media": {
       "featured_image": "pizza-day-2026-banner.jpg",
       "thumbnail": "pizza-day-2026-thumb.jpg",
-      "gallery": [
-        "pizza-day-2025-highlights.jpg",
-        "lightning-payment-demo.jpg",
-        "community-celebration.jpg"
-      ],
+      "gallery": ["pizza-day-2025-highlights.jpg", "lightning-payment-demo.jpg", "community-celebration.jpg"],
       "poster": "pizza-day-2026-poster.pdf"
     },
-    
+
     "catering": {
       "provided": true,
       "type": "meal",
@@ -179,31 +175,20 @@
         }
       ]
     },
-    
+
     "extras": {
-      "giveaways": [
-        "Hardware wallets (5x)",
-        "Bitcoin books",
-        "Limited edition Pizza Day t-shirts",
-        "Bitcoin stickers and pins"
-      ],
-      "activities": [
-        "Bitcoin trivia contest",
-        "Lightning payment race",
-        "Kids Bitcoin coloring corner",
-        "Photo booth with props",
-        "Live music and DJ"
-      ],
+      "giveaways": ["Hardware wallets (5x)", "Bitcoin books", "Limited edition Pizza Day t-shirts", "Bitcoin stickers and pins"],
+      "activities": ["Bitcoin trivia contest", "Lightning payment race", "Kids Bitcoin coloring corner", "Photo booth with props", "Live music and DJ"],
       "childcare": false,
       "networking_session": true
     },
-    
+
     "target_audience": {
       "experience_level": ["beginner", "intermediate", "advanced"],
       "interests": ["general", "families", "merchants", "developers"],
       "age_groups": ["all-ages"]
     },
-    
+
     "promotion": {
       "hashtags": ["#BitcoinPizzaDay", "#PizzaDay2026", "#BitcoinJamaica", "#IslandBitcoin"],
       "press_release": "https://islandbitcoin.com/press/pizza-day-2026",
@@ -212,23 +197,17 @@
         "social_media_kit": "pizza-day-social-kit.zip"
       }
     },
-    
+
     "metrics": {
       "expected_attendance": 400,
-      "success_metrics": [
-        "Total attendees",
-        "Pizzas consumed",
-        "Lightning transactions",
-        "New Bitcoin users onboarded",
-        "Social media reach"
-      ]
+      "success_metrics": ["Total attendees", "Pizzas consumed", "Lightning transactions", "New Bitcoin users onboarded", "Social media reach"]
     },
-    
+
     "legal": {
       "photo_video_consent": true,
       "covid_policy": "Follow current health guidelines"
     },
-    
+
     "metadata": {
       "created_at": "2026-02-01T10:00:00Z",
       "updated_at": "2026-03-15T14:30:00Z",
