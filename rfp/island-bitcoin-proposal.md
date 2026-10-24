@@ -7,7 +7,7 @@
 
 Island Bitcoin is Jamaica’s premier Bitcoin community, hosting monthly in-person meetups in Kingston. With a strong mission to educate, connect, and empower individuals around Bitcoin and decentralized technology, the community currently operates a simple landing page at [islandbitcoin.com](https://islandbitcoin.com).
 
-To further grow our membership, increase event attendance, and amplify our impact, we are seeking a qualified digital marketing agency to elevate our web presence and marketing strategy—culminating in a major campaign for Bitcoin Pizza Day (May 22nd).
+To further grow our membership, increase event attendance, and amplify our impact, we are seeking a qualified digital marketing agency to elevate our web presence and marketing strategy, culminating in a major campaign for Bitcoin Pizza Day (May 22nd).
 
 ---
 
